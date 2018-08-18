@@ -34,7 +34,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 License
 ----
 
-MIT
+BSD3
 
 
 **Free Software, Yeah!**
